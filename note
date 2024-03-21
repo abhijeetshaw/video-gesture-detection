@@ -1,0 +1,8 @@
+Input:
+
+The input to this code would be a test video file named "test_video.mp4". This video should contain various gestures, and the task is to detect a specific gesture within this video sequence.
+Output:
+
+The output would be a display window showing the test video frames being processed in real-time.
+Whenever the desired gesture is detected in a frame, the text "DETECTED" will be overlaid in bright green at the top left corner of that frame.
+This annotation will indicate the presence of the gesture in the video sequence.
